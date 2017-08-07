@@ -114,4 +114,4 @@
 ```
 
 
-以上只是写了大致的思路，具体的实现代码在https://github.com/GodBlessMyParents/bannerView.git
+以上只是写了大致的思路，具体的细节实现看代码
