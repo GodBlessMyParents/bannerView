@@ -199,6 +199,7 @@
     self.dataSource = self;
     [self registerClass:[JWCBannerCell class] forCellWithReuseIdentifier:NSStringFromClass([JWCBannerCell class])];
     self.backgroundColor = [UIColor whiteColor];
+    self.bounces = NO;
     self.isOnlyOne = NO;
 }
 
